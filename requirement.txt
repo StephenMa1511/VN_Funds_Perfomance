@@ -1,0 +1,6 @@
+voila
+pandas
+numpy
+plotly
+seaborn
+datetime
